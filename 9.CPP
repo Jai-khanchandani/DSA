@@ -24,7 +24,7 @@ printf("\nenter your choice:");
 scanf("%d",&choice);
 switch(choice)
 {
-case 1:printf("enter item to add in the list\n");
+case 1:printf("Enter item to add in the list\n");
 scanf("%d",&num);
 create(num);
 break;
